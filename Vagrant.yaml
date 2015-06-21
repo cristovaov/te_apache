@@ -1,0 +1,6 @@
+---
+Project:
+    name: "te_apache"
+    box_ip: 192.168.50.4
+    box_hostname: ""
+    puppet_fqdn: ""
