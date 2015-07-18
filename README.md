@@ -1,4 +1,4 @@
 **te_apache**  
-v2015.06.21b \- Vagrant vm defined by project name. Allows multi-machine setup.
+v2015.07.18 \- Add Vagrant box setting.  
 
 *&copy; Cristovao Verstraeten*
