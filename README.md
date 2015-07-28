@@ -1,4 +1,4 @@
 **te_apache**  
-v2015.07.18 \- Add Vagrant box setting.  
+v2015.07.28 \- Fetch yaml data file more explicitly.  
 
 *&copy; Cristovao Verstraeten*
