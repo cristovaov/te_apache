@@ -1,7 +1,9 @@
 # -*- mode: ruby -*-
 # # vi: set ft=ruby :
+dir = File.dirname(File.expand_path(__FILE__))
+
 require 'yaml'
-set = YAML.load_file 'Vagrant.yaml'
+set = YAML.load_file("#{dir}/Vagrant.yaml")
 
 Vagrant.configure(2) do |config|
   config.ssh.shell = "bash -c 'BASH_ENV=/etc/profile exec bash'"
